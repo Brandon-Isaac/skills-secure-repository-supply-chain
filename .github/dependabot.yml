@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "nugget"
     directory: "/code/"
     schedule:
-      interval: "monthly"
+      interval: "daily"
